@@ -1,1 +1,2 @@
-# Lab-7-redo
+# JSPlatformer
+JS Platformer for DIG 3480C
